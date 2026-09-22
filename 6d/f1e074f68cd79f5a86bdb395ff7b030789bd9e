@@ -1,0 +1,23 @@
+src/content/changelog/dns/2026-09-11-nameserver-sets.mdx
+  s_a60f4a7ff3dbd9::t_84c1faf3c32de8 1-43
+src/content/docs/dns/nameservers/custom-nameservers/index.mdx
+  s_a60f4a7ff3dbd9::t_84c1faf3c32de8 17-22,28,35
+src/content/docs/dns/nameservers/custom-nameservers/nameserver-sets.mdx
+  s_a60f4a7ff3dbd9::t_84c1faf3c32de8 1-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6df1e074f68cd79f5a86bdb395ff7b030789bd9e",
+  "prompts": {},
+  "sessions": {
+    "s_a60f4a7ff3dbd9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f37c5fe4affe5UyNKgIg23JvO0",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "hannes-cf <hannes@cloudflare.com>"
+    }
+  }
+}
