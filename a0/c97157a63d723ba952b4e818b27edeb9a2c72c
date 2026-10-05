@@ -1,0 +1,24 @@
+src/content/changelog/dns/2026-10-05-dns-records-quota-warning.mdx
+  s_c3b37a946600c0::t_04583b6b258a12 1-6,8
+  s_c3b37a946600c0::t_0e55cde86e3dcc 7,11
+  s_c3b37a946600c0::t_fb8e70a8310e48 9
+  s_c3b37a946600c0::t_fd50af2d82b7f4 10
+src/content/docs/dns/manage-dns-records/index.mdx
+  s_c3b37a946600c0::t_874ef81f5298d4 69-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a0c97157a63d723ba952b4e818b27edeb9a2c72c",
+  "prompts": {},
+  "sessions": {
+    "s_c3b37a946600c0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b38c6d8-8d0a-4d4c-9cb8-55e482bad889",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "hannes-cf <hannes@cloudflare.com>"
+    }
+  }
+}
