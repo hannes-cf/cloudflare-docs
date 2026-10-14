@@ -1,0 +1,30 @@
+src/content/docs/dns/nameservers/custom-nameservers/index.mdx
+  s_b9952b20e3040e::t_680d4125ef4cb9 28
+  s_b9952b20e3040e::t_078d93ba5182a7 19
+src/content/docs/dns/nameservers/custom-nameservers/nameserver-sets.mdx
+  s_b9952b20e3040e::t_f35414f77d0682 20
+src/content/changelog/dns/2026-10-14-nameserver-sets.mdx
+  s_b9952b20e3040e::t_45965ee9496446 2
+  s_b9952b20e3040e::t_44e1b38ab378a8 7
+src/content/docs/dns/foundation-dns/advanced-nameservers.mdx
+  s_b9952b20e3040e::t_cd2713101e6af8 91
+  s_b9952b20e3040e::t_788cbbcae6b816 87
+src/content/docs/dns/faq.mdx
+  s_b9952b20e3040e::t_ba37100fd01574 109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ef3c64e219714bc1ea23965211e5875e78368968",
+  "prompts": {},
+  "sessions": {
+    "s_b9952b20e3040e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec66742cbffe9v7GCZFEFdBLpZ",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "hannes-cf <hannes@cloudflare.com>"
+    }
+  }
+}
