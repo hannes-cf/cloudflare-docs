@@ -1,0 +1,19 @@
+src/content/changelog/dns/2026-10-30-classic-dns-records-page-retired.mdx
+  s_2f0737fc0ebf6d::t_db033073b1abea 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "badc3129e9fcc27eba153f0eb36910fb593d3da5",
+  "prompts": {},
+  "sessions": {
+    "s_2f0737fc0ebf6d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e785cd344ffeHSlXqeLconZKsE",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "hannes-cf <hannes@cloudflare.com>"
+    }
+  }
+}
